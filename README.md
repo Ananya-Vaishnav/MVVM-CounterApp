@@ -1,0 +1,1 @@
+The **MVVM Counter App** is an Android app created with Kotlin and Jetpack Compose following the MVVM (Model-View-ViewModel) architecture. It features a simple counter with increment and decrement functions, using a ViewModel to manage UI state and data. This structure promotes a clean separation of concerns and makes the app easily scalable and testable.
